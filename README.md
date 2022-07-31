@@ -117,14 +117,11 @@ Performance: Parallelization of read queries, powerful indexing methods, Multive
 
 ## NestJS
  NestJS is used for writing scalable, testable and loosely coupled applications. NestJS is easily extendible, as it can be used with other libraries; versatile thanks to its adaptive fully-fledged ecosystem and progressive, bringing JavaScript features and design patterns.
+ 
 - Modules: used to organize the code and split features into logical reusable units. Grouped TypeScript files are decorated with “@Module” decorator which provides metadata that Nest makes use of to organize the application structure.
-
 - Providers: also called services, which are designed to abstract any form of complexity and logic. Providers can be created and injected into controllers or other providers.
-
 - Controllers: responsible for handling incoming requests and returning appropriate responses to the client-side of the application (for example call to the API).
-
 - The use of TypeScript helps ensure that Nest will remain relevant in the rapidly changing JavaScript landscape and gives developers less context switching.
-
 - Great documentation.
 
 ## TypeORM
