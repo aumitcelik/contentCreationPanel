@@ -1,6 +1,7 @@
 #  Content Creation Panel
 ## Languages and Frameworks
  - PostgreSQL & NestJS & TypeORM & React  
+ - Used Docker.
  - Jest & unit testing
  -  Postman & e2e testing
 
